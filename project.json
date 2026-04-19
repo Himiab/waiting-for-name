@@ -1,0 +1,25 @@
+{
+  "overview": "Vanguard Cyber is a high-tech cyberpunk terminal dashboard that scans URLs and text for security threats. It uses a Naive Bayes classifier and Regex heuristics to calculate threat probability, with a Thesis Defense Mode that exposes the full ML pipeline — tokenization, audit log, model parameters, and live mitigation alerts.",
+  "features": [
+    "Cyberpunk black-screen terminal dashboard with monospace font",
+    "URL/text threat scanner with real-time probability scoring",
+    "Naive Bayes classifier with alpha smoothing and training vocabulary",
+    "Regex heuristic rules (punycode, IP links, @ symbols)",
+    "Red screen + SENDER QUARANTINED alert for high-risk threats",
+    "Model Diagnostics: tokenization display and raw probability score",
+    "Heuristic Audit Log: triggered rules with weights",
+    "Model Parameters card: alpha value and vocabulary size",
+    "Active Blocking Protocol with timestamped system log"
+  ],
+  "category": "security-dashboard",
+  "tags": [
+    "cybersecurity",
+    "machine-learning",
+    "dashboard",
+    "terminal",
+    "cyberpunk",
+    "naive-bayes",
+    "threat-detection"
+  ],
+  "last_updated": "2026-04-19T06:23:26.200Z"
+}
